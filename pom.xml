@@ -55,6 +55,12 @@
 		</dependency>
 
 		<dependency>
+                        <groupId>org.springframework.s2c</groupId>
+                        <artifactId>customizer</artifactId>
+                        <version>0.0.1.BUILD-SNAPSHOT</version>
+                </dependency>
+		
+		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter</artifactId>
 			<scope>test</scope>
